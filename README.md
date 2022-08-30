@@ -16,3 +16,5 @@
     * [ ] Map
   * [ ] Stream
   * [ ] Hash
+* 디자인 패턴
+  * [ ] MVC 패턴
